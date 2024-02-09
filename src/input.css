@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#diceImages img{
+    width: 70px;
+    margin: 7px;
+
+}
